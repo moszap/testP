@@ -1,0 +1,3 @@
+[submodule "testS"]
+	path = testS
+	url = https://github.com/moszap/testS.git
